@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "ts",
-=======
-  "name": "part2",
->>>>>>> 71c7bf54cad157d9bf05f5ffa65d1e46087b717c
   "version": "0.1.0",
   "private": true,
   "dependencies": {
