@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "l",
+=======
+<<<<<<< HEAD
+  "name": "b",
+=======
+  "name": "a",
+>>>>>>> 88530d8338fcff1bfa670ca004fba19602cc6fc0
+>>>>>>> 4fe4bc505281f6522d5c69c800e00fc8bde6691d
   "version": "0.1.0",
   "private": true,
   "dependencies": {
