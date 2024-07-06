@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "b",
+=======
+  "name": "a",
+>>>>>>> 88530d8338fcff1bfa670ca004fba19602cc6fc0
   "version": "0.1.0",
   "private": true,
   "dependencies": {
